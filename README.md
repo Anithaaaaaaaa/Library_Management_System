@@ -44,7 +44,7 @@ To work with or run this project, you need:
 
 ~File Structure
 
-
+```
 library-management-system/
 ├── src/
 │   ├── Main.java          # Entry point for the application
@@ -54,7 +54,7 @@ library-management-system/
 │   └── Library.java       # Core library management logic
 ├── README.md              # Documentation file
 └── LICENSE                # License information
-
+```
 
 
 ~How to Use
@@ -85,23 +85,23 @@ Contributions are welcome! If you'd like to improve this project:
 
 Fork the repository.
 
-Clone the repository to your local machine.
+*Clone the repository to your local machine.
 
-Open Eclipse and import the project:
+*Open Eclipse and import the project:
 
-Go to File > Import > Existing Projects into Workspace.
+*Go to File > Import > Existing Projects into Workspace.
 
-Select the cloned repository folder.
+*Select the cloned repository folder.
 
-Create a new branch (git checkout -b feature/YourFeature).
+*Create a new branch (git checkout -b feature/YourFeature).
 
-Make your changes and test them in Eclipse.
+*Make your changes and test them in Eclipse.
 
-Commit your changes (git commit -m 'Add your message here').
+*Commit your changes (git commit -m 'Add your message here').
 
-Push to the branch (git push origin feature/YourFeature).
+*Push to the branch (git push origin feature/YourFeature).
 
-Open a pull request.
+*Open a pull request.
 
 
 ~Link
