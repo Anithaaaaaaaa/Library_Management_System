@@ -36,7 +36,7 @@ To work with or run this project, you need:
    git clone - https://github.com/Anithaaaaaaaa/Library_Management_System.git
    
 2. Navigate to the project directory:cd library_management_system
-   ```
+
 3. Open the project in your preferred IDE.
 
 4. Compile and run the `Main.java` file to start the application.
@@ -44,7 +44,7 @@ To work with or run this project, you need:
 
 ~File Structure
 
-```
+
 library-management-system/
 ├── src/
 │   ├── Main.java          # Entry point for the application
@@ -54,7 +54,7 @@ library-management-system/
 │   └── Library.java       # Core library management logic
 ├── README.md              # Documentation file
 └── LICENSE                # License information
-```
+
 
 
 ~How to Use
