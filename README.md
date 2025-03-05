@@ -40,21 +40,29 @@ library-management-system/
 🎯 How to Use
 
 1.Run the application by executing the Main.java file.
+
 2.Use the menu options to perform operations like:
 -Adding new books or members
 -Issuing or returning books
 -Viewing transaction logs
+
 3.Follow the prompts to enter details for each operation.
 
 🔧 Customization
+
 🔹 Database Integration: Currently, data is managed in-memory. You can integrate a database (MySQL, SQLite) for persistent storage.
+
 🔹 GUI Development: Enhance the user experience by creating a graphical interface using JavaFX or Swing.
+
 🔹 Additional Features: Add advanced features like fine calculation, overdue alerts, or analytics.
 
+
 🤝 Contributing
+
 Contributions are welcome! Follow these steps to contribute:
 
 1.Fork the repository.
+
 2.Clone the repository to your local machine.
 ```
 git clone https://github.com/Anithaaaaaaaa/Library_Management_System.git
