@@ -38,6 +38,7 @@ library-management-system/
 └── LICENSE                # License information
 ```
 🎯 How to Use
+
 1.Run the application by executing the Main.java file.
 2.Use the menu options to perform operations like:
 -Adding new books or members
@@ -76,7 +77,9 @@ git push origin feature/YourFeature
 ```
 8.Open a pull request.
 
+
 🔗 Repository Link
+
 🔗 Library Management System  `https://github.com/Anithaaaaaaaa/Library_Management_System.git`
 
 📩 Contact
